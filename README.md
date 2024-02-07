@@ -8,11 +8,10 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://main--gautamjha306.netlify.app/](https://main--gautamjha306.netlify.app/)
+- 👨‍💻 All of my projects are available at [gautamjha306.netlify.app](https://main--gautamjha306.netlify.app/)
 
 - 💬 Ask me about **MERN Development and Android**
 
-- 📫 How to reach me **https://main--gautamjha306.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
